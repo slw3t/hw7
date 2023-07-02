@@ -1,0 +1,22 @@
+a {
+    color: aqua;
+}
+ 
+
+.link {
+    color: #d36128;
+}
+
+{
+a[href^="https"]
+    color: #d18686;
+}
+
+a[href="youTube"] {
+    color: darkgoldenrod;
+
+}
+
+.list + p {
+    font-size: 24px;
+}
